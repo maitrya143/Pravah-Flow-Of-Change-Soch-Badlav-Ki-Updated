@@ -1,0 +1,7 @@
+{
+  "name": "Copy of Copy of Copy of PRAVAH Center Head",
+  "description": "Volunteer management application for student data, attendance, and operational logs.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
