@@ -1,6 +1,8 @@
 
 # PRAVAH Prototype
 
+Live Prototype Link : https://relaxed-cascaron-b5d23f.netlify.app/
+
 This project is a React-based web application for Center Heads to manage student data, attendance, and operational logs. It includes a frontend built with Vite + React + TypeScript and a backend using Node.js + Express + MongoDB.
 
 ## Prerequisites
